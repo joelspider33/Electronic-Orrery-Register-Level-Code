@@ -1,0 +1,62 @@
+Dependencies for Project 'Computation and User Interface', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Main.c)(0x5A940224)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\MK64F12.h)(0x5A69CDF0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\core_cm4.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_version.h)(0x59847E46)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_compiler.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_armcc.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\system_MK64F12.h)(0x5A69F432)
+I (C:\Keil_v5\ARM\ARMCC\include\Math.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BF3C4)
+I (lcd.h)(0x5A80C477)
+I (Arial_10pt.h)(0x5A72F765)
+I (bitmap_db.h)(0x5A72F765)
+I (Arial_14pt.h)(0x5A730BA5)
+I (Main.h)(0x5A9401C9)
+I (Planetary_Positioning.h)(0x5A805BE3)
+F (.\Main.h)(0x5A9401C9)()
+F (.\lcd.c)(0x5A80C489)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\MK64F12.h)(0x5A69CDF0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\core_cm4.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_version.h)(0x59847E46)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_compiler.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_armcc.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\system_MK64F12.h)(0x5A69F432)
+I (C:\Keil_v5\ARM\ARMCC\include\Math.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588BF3C4)
+I (lcd.h)(0x5A80C477)
+I (Arial_10pt.h)(0x5A72F765)
+I (bitmap_db.h)(0x5A72F765)
+I (Arial_14pt.h)(0x5A730BA5)
+I (Main.h)(0x5A9401C9)
+F (.\lcd.h)(0x5A80C477)()
+F (..\..\..\..\..\..\..\..\Desktop\cmsis-core-k64f-master\cmsis-core-k64f\system_MK64F12.h)(0x00000000)()
+F (..\..\..\..\..\..\..\..\Desktop\cmsis-core-k64f-master\cmsis-core-k64f\cmsis.h)(0x00000000)()
+F (.\Arial_10pt.c)(0x5A72FFD2)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\arial_10pt.o --omf_browse .\objects\arial_10pt.crf --depend .\objects\arial_10pt.d)
+I (Arial_10pt.h)(0x5A72F765)
+I (bitmap_db.h)(0x5A72F765)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BF3C4)
+F (.\Arial_10pt.h)(0x5A72F765)()
+F (.\Arial_14pt.c)(0x5A806098)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\arial_14pt.o --omf_browse .\objects\arial_14pt.crf --depend .\objects\arial_14pt.d)
+I (arial_14pt.h)(0x5A730BA5)
+I (bitmap_db.h)(0x5A72F765)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BF3C4)
+F (.\Arial_14pt.h)(0x5A730BA5)()
+F (.\bitmap_db.h)(0x5A72F765)()
+F (.\Planetary_Positioning.c)(0x5A805C16)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\planetary_positioning.o --omf_browse .\objects\planetary_positioning.crf --depend .\objects\planetary_positioning.d)
+I (Planetary_Positioning.h)(0x5A805BE3)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\Math.h)(0x588BF3C4)
+F (.\Planetary_Positioning.h)(0x5A805BE3)()
+F (RTE\Device\MK64FN1M0xxx12\startup_MK64F12.s)(0x5A940273)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "MK64FN1M0xxx12 SETA 1"--list .\listings\startup_mk64f12.lst --xref -o .\objects\startup_mk64f12.o --depend .\objects\startup_mk64f12.d)
+F (RTE\Device\MK64FN1M0xxx12\system_MK64F12.c)(0x5A69D550)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMK64FN1M0xxx12-o .\objects\system_mk64f12.o --omf_browse .\objects\system_mk64f12.crf --depend .\objects\system_mk64f12.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\MK64F12.h)(0x5A69CDF0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\core_cm4.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_version.h)(0x59847E46)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_compiler.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_armcc.h)(0x59C1389E)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\system_MK64F12.h)(0x5A69F432)

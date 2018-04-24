@@ -1,0 +1,17 @@
+.\objects\main.o: Main.c
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\MK64F12.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\core_cm4.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_version.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_compiler.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_armcc.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\system_MK64F12.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\Math.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main.o: lcd.h
+.\objects\main.o: Arial_10pt.h
+.\objects\main.o: bitmap_db.h
+.\objects\main.o: Arial_14pt.h
+.\objects\main.o: Main.h
+.\objects\main.o: Planetary_Positioning.h
